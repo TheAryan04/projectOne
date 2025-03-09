@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+/* Light Mode (default) */
+body {
+  background-color: #ffffff;
+  color: black;
+  sm:3rem;
+  justify-content: center;
+}
+
+
+
+  
